@@ -1,0 +1,1 @@
+# Gjrf ytn aeyrwbjyfkf test2.py только для слияния веток
