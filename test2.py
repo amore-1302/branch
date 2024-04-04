@@ -1,1 +1,1 @@
-# Gjrf ytn aeyrwbjyfkf test2.py только для слияния веток
+# добвыил в ветку new test2.py только для слияния веток
